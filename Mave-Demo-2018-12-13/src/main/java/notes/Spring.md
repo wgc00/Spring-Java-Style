@@ -1,7 +1,4 @@
-# Spring-Java-Style
-Spring使用java配置，加实现EnvironmentAware接口获取properties资源文件
-	
-	
+
  * IoC主要做两件事：把对象初始化后放入容器中。
  * 任何通过getBean()获取值
  
@@ -14,4 +11,3 @@ Spring使用java配置，加实现EnvironmentAware接口获取properties资源�
        缺点： 这里类要基于接口，才能实现动态代理   
        如果没有接口的类呢？出现了第三方夹包  
        如： CGLib
-	
