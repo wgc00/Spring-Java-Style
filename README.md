@@ -1,0 +1,2 @@
+# Spring-Java-Style
+Spring使用java配置，加实现EnvironmentAware接口获取properties资源文件
